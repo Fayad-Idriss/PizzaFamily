@@ -1,12 +1,6 @@
 ﻿using System;
 
 
-
-
-
-namespace PizzaFamilly
-{
-
 	public class Pizza
 	{
 		public string nom;
@@ -33,5 +27,5 @@ namespace PizzaFamilly
 			};
 		}
 	}
-}
+
 
