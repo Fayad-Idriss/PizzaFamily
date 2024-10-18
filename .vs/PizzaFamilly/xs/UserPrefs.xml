@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{949A193B-EB5B-4FA6-82EF-7A3B2FB57201}|Default">
-  <MonoDevelop.Ide.ItemProperties.PizzaFamilly FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaFamilly/Program.cs">
+    <Files>
+      <File FileName="PizzaFamilly/Program.cs" Line="20" Column="40" />
+      <File FileName="PizzaFamilly/Pizza.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaFamilly" expanded="True">
+            <Node name="PizzaFamilly" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PizzaFamilly PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
